@@ -59,7 +59,7 @@ function main() {
 
          sendData(data)
     }
-    Utilities.sleep(1000 * 60 * 5);
+    //Utilities.sleep(1000 * 60 * 5);
   }
 }
 
