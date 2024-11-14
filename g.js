@@ -1,4 +1,4 @@
-function func() {
+
   var lastBudget = -1;
   for (var i = 0; i < 5; i++) { 
 
@@ -96,6 +96,5 @@ function sendData(data,retry=0){
           return sendData(data, retry+1);
         } 
   
-  return;
-}
+
 
